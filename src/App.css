@@ -1,0 +1,7 @@
+.palabra {
+  display: :flex;
+}
+
+.palo {
+  margin: :5px;
+}
