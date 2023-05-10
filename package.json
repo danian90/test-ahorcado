@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+   "homepage":"danian90.github.io/test-ahorcado",
   "scripts": {
     "predeploy":"yarn run build",
     "deploy":"gh-pages -d dist",
